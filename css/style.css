@@ -161,5 +161,22 @@ h2 .quotes {
     flex: 50%;
 }
 
+.ContactMe {
+    color: black;
+background-color: white;
+padding-left: .5em;
+padding-top: .5em;
+padding-bottom: .5em;
+padding-right: .5em;
+}
 
+.footer {
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding-left: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 0;
+}
 
